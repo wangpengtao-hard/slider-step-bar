@@ -1,14 +1,17 @@
 {
-  "name": "slider-step-bar",
+  "name": "slide-step-bar",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
+    "start": "npm run serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "less": "^4.1.2",
+    "less-loader": "^6.0.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
