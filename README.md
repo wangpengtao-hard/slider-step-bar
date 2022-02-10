@@ -39,6 +39,11 @@ dataSource              // 数据源 (非必填 array) 默认8-23  [8, 8.5, 9, .
 ##方法
 reset() // 重置
 
+## pc效果图
+![image](https://github.com/wangpengtao-hard/slider-step-bar/blob/master/src/assets/pc_mock.png)
+
+## mobile效果图
+![image](https://github.com/wangpengtao-hard/slider-step-bar/blob/master/src/assets/mobile_mock.png)
 
 ## demo
 
